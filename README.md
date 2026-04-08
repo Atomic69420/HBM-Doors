@@ -19,7 +19,7 @@ The mod still technically contains HBM Modernized's other blocks, items, and ent
 
 **Explosion immunity** — Doors are now fully immune to explosions. A reinforced vault door caving to a single creeper never made much sense, so all doors now survive any explosion regardless of its source.
 
-**Screwdriver not yet implemented** — The original mod includes a screwdriver item that lets you change door skins. The alternate skins are fairly limited, but the screwdriver will be added in a future update.
+**Screwdriver not yet implemented (in the creative menu)** — The original mod includes a screwdriver item that lets you change door skins. The alternate skins are fairly limited compared to the official HBM 1.12.2 mod. To obtain the screwdriver you will need to run **/give @s hbm_m:screwdriver** as it is not present in the creative menu.
 
 **Crafting not possible** — Since all recipes were removed, you are unable to craft the doors in this mod. (if it was even possible in HBM Modernized)
 
@@ -30,8 +30,7 @@ The mod still technically contains HBM Modernized's other blocks, items, and ent
 
 You can find images of the doors here [HBM Wiki](https://ntm-alcateredition.fandom.com/wiki/Doors)
 
-Although they may not present the right textures as what you will see in game due to the absence of the screwdriver or the ability to change the texture
-
+Although they may not present the right textures as what you will see in game due to the absence of the some of the configurable door textures
 ---
 
 ## Installation
