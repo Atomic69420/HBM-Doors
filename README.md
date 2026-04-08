@@ -25,12 +25,12 @@ The mod still technically contains HBM Modernized's other blocks, items, and ent
 
 ---
 
----
 
 ## Doors
 
 You can find images of the doors here [HBM Wiki](https://ntm-alcateredition.fandom.com/wiki/Doors)
-Although they may not contain the right textures as what you will see in game due to the absence of the screwdriver and the ability to change the texture
+
+Although they may not present the right textures as what you will see in game due to the absence of the screwdriver or the ability to change the texture
 
 ---
 
