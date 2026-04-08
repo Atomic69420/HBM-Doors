@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hbm_m:block/depth_stone_slab"
+    },
+    "type=double": {
+      "model": "hbm_m:block/depth_stone"
+    },
+    "type=top": {
+      "model": "hbm_m:block/depth_stone_slab_top"
+    }
+  }
+}

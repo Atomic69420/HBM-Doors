@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 90
+    },
+    "facing=east,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 90
+    },
+    "facing=east,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 90
+    },
+    "facing=east,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 90
+    },
+    "facing=north,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine"
+    },
+    "facing=north,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine"
+    },
+    "facing=north,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine"
+    },
+    "facing=north,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine"
+    },
+    "facing=south,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 180
+    },
+    "facing=south,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 180
+    },
+    "facing=south,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 180
+    },
+    "facing=south,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 180
+    },
+    "facing=west,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 270
+    },
+    "facing=west,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 270
+    },
+    "facing=west,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 270
+    },
+    "facing=west,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/advanced_assembly_machine",
+      "y": 270
+    }
+  }
+}

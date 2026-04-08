@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,render_active=false": {
+      "model": "hbm_m:block/machines/machine_assembler",
+      "y": 90
+    },
+    "facing=east,render_active=true": {
+      "model": "hbm_m:block/machines/machine_assembler",
+      "y": 90
+    },
+    "facing=north,render_active=false": {
+      "model": "hbm_m:block/machines/machine_assembler"
+    },
+    "facing=north,render_active=true": {
+      "model": "hbm_m:block/machines/machine_assembler"
+    },
+    "facing=south,render_active=false": {
+      "model": "hbm_m:block/machines/machine_assembler",
+      "y": 180
+    },
+    "facing=south,render_active=true": {
+      "model": "hbm_m:block/machines/machine_assembler",
+      "y": 180
+    },
+    "facing=west,render_active=false": {
+      "model": "hbm_m:block/machines/machine_assembler",
+      "y": 270
+    },
+    "facing=west,render_active=true": {
+      "model": "hbm_m:block/machines/machine_assembler",
+      "y": 270
+    }
+  }
+}

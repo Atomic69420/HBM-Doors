@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=east,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=east,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=east,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=east,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=north,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=north,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=north,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=north,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=south,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=south,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=south,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=south,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=west,frame=false,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=west,frame=false,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=west,frame=true,render_active=false": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    },
+    "facing=west,frame=true,render_active=true": {
+      "model": "hbm_m:block/machines/chemical_plant"
+    }
+  }
+}

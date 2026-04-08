@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hbm_m:block/smoke_bomb_bottom",
+    "side": "hbm_m:block/smoke_bomb_side",
+    "top": "hbm_m:block/smoke_bomb_top"
+  }
+}
