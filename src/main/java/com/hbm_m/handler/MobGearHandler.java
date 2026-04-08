@@ -1,5 +1,6 @@
 package com.hbm_m.handler;
 
+import com.hbm_m.main.ModFeatureFlags;
 import com.hbm_m.item.ModItems;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EquipmentSlot;
@@ -15,6 +16,11 @@ public class MobGearHandler {
 
     @SubscribeEvent
     public static void onMobSpawn(MobSpawnEvent.FinalizeSpawn event) {
+        // Disable mob gear spawning for doors-only build
+        if (ModFeatureFlags.DOORS_ONLY) {
+            return;
+        }
+        
         Entity entity = event.getEntity();
         if (entity.level().isClientSide()) return;
 
