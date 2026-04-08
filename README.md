@@ -21,6 +21,17 @@ The mod still technically contains HBM Modernized's other blocks, items, and ent
 
 **Screwdriver not yet implemented** — The original mod includes a screwdriver item that lets you change door skins. The alternate skins are fairly limited, but the screwdriver will be added in a future update.
 
+**Crafting not possible** — Since all recipes were removed, you are unable to craft the doors in this mod. (if it was even possible in HBM Modernized)
+
+---
+
+---
+
+## Doors
+
+You can find images of the doors here [HBM Wiki](https://ntm-alcateredition.fandom.com/wiki/Doors)
+Although they may not contain the right textures as what you will see in game due to the absence of the screwdriver and the ability to change the texture
+
 ---
 
 ## Installation
